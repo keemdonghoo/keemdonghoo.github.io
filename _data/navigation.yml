@@ -1,6 +1,6 @@
 # main links
  main:
-  title: "My GitHub"
+  -title: "My GitHub"
   url: https://github.com/keemdonghoo/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

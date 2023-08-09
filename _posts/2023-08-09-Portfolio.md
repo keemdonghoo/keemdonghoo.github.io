@@ -7,14 +7,14 @@
 
 ## 프로젝트
 
-### <span style="color: Green">- 팀 프로젝트</sapn>
+### <span style="color: Green">- 팀 프로젝트</span>
 
 - ### **영화 리뷰** [(Git Link)](https://github.com/nikerun23/gradeprocess/tree/master/gradeprocess)
 - ### **영화 리뷰** [(바로가기)](https://github.com/nikerun23/gradeprocess/tree/master/gradeprocess)
 - ### **영화 리뷰** [(바로가기)](https://github.com/nikerun23/gradeprocess/tree/master/gradeprocess)
 
-### <span style="color: Green">- 개인 프로젝트</sapn>
-- ### **영화 리뷰** [(바로가기)](https://github.com/nikerun23/gradeprocess/tree/master/gradeprocess)
+### <span style="color: Green">- 개인 프로젝트</span>
+- ### **피파 온라인 전적검색 사이트** [(바로가기)](https://github.com/keemdonghoo/miniProject)
   
 <br>
 
