@@ -1,11 +1,11 @@
 
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Keemdonghoo's%20Portfolio!&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?&color=auto&customColorList=4&type=cylinder&height=180&section=header&text=Donghoo's%20Portfolio&fontSize=60" />	
 </div>
+<br><br><br><br><br><br>
 
 
-
-## 프로젝트
+# 프로젝트
 
 ### <span style="color: Green">- 팀 프로젝트</span>
 
@@ -21,7 +21,7 @@
 ---
 
 
-## 코리아IT아카데미 이수 교육 내역서
+# 코리아IT아카데미 이수 교육 내역서
 
 
 ### 이수 과정명
