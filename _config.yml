@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Keemdonghoo"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/img/profile.png"
   bio              : "Keemdonghoo's Blog."
   location         : "Pocheon, Republic of Korea"
   email            : "kiingdonghoo@gmail.com"
