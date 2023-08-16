@@ -10,6 +10,7 @@
 ### <span style="color: #99CCFF">- 팀 프로젝트</span>
 
 >### **1차 프로젝트: C# 및 .NET 프레임워크를 활용한 영화리뷰 어플리케이션 구현**
+<br>
 
 #### **제작 인원 및 개발 기간**
 * 김동후 , 이건종 , 박재걸 
@@ -53,8 +54,8 @@
 <br>
 
 ### **라면 공장 MES시스템** 
-### [(3차 프로젝트 WinForm Git Link)](https://github.com/keemdonghoo/FinalProject-WinForms) 	       
-### [(3차 프로젝트 Web Git Link)](https://github.com/keemdonghoo/FinalProject-WinForms)
+### [(3차 프로젝트 WinForm Git Link)](https://github.com/keemdonghoo/FinalProject-WinForm) 	       
+### [(3차 프로젝트 Web Git Link)](https://github.com/keemdonghoo/FinalProject-WEB)
 
 <br>
 
