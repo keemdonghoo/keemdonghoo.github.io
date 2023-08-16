@@ -5,7 +5,67 @@
 <br><br><br><br><br><br>
 
 
+# 프로젝트
 
+### <span style="color: #99CCFF">- 팀 프로젝트</span>
+
+>### **1차 프로젝트: C# 및 .NET 프레임워크를 활용한 영화리뷰 어플리케이션 구현**
+
+#### **제작 인원 및 개발 기간**
+* 김동후 , 이건종 , 박재걸 
+* 4주 개발
+
+<br> 
+
+ ### **영화 리뷰 프로그램** [(1차 프로젝트 Git Link)](https://github.com/keemdonghoo/FirstProject) 
+ <br>
+
+
+
+
+---
+<br>
+
+
+>### **2차 프로젝트: ASP.NET Core MVC 기반 영화리뷰 웹 사이트 개발**
+<br>
+
+#### **제작 인원 및 개발 기간**
+* 김동후 , 김건우 , 박재걸 
+* 3주 개발
+
+<br>
+
+### **영화 리뷰 웹 사이트** [(2차 프로젝트 Git Link)](https://github.com/keemdonghoo/SecondProject)
+
+
+
+---
+<br>
+
+>### **3차 프로젝트: 라면 공장 MES 시스템 구현**
+<br>
+
+### **제작 인원 및 개발 기간**
+* 김동후 , 이건종 , 김혁주 , 김택수
+* 3주 개발
+<br>
+
+### **라면 공장 MES시스템** 
+### [(3차 프로젝트 WinForm Git Link)](https://github.com/keemdonghoo/FinalProject-WinForms) 	       
+### [(3차 프로젝트 Web Git Link)](https://github.com/keemdonghoo/FinalProject-WinForms)
+
+<br>
+
+---
+
+
+### <span style="color:#99CCFF">- 개인 프로젝트</span>
+### **HTML , JS , NEXON API 를 사용한 피파온라인4 전적검색 사이트** [(개인프로젝트 Git Link)](https://github.com/keemdonghoo/miniProject)
+  
+<br>
+
+---
 
 # 코리아IT아카데미 이수 교육 내역서
 
@@ -32,8 +92,6 @@
 ### **웹표준 (88 시간)**<br>
 - HTML, CSS, JavaScript, jQuery, BootStrap, fetch API, AJAX, 외부 API 활용
 
-### **미니프로젝트 : HTML,CSS, NEXON API를 활용한 피파온라인 전적검색 웹 사이트 구현** 
-<br>
 
 ### **ASP.NET Core (64 시간)**<br>
 - ASP.NET Core, Entity Framework(ORM), Razor, MVC, Repository 패턴
@@ -48,38 +106,3 @@
 ### **실무자 교육: ㈜ 리스너  Cleber.MES 구조 분석  (40 시간)**<br>
 - 콘솔 기반 스마트공장 프로세스에 대한 이해. Cleber.MES 솔루션 분석 및 이해
 
-# 프로젝트
-
-### <span style="color: #99CCFF">- 팀 프로젝트</span>
-
->### **1차 프로젝트: C# 및 .NET 프레임워크를 활용한 영화리뷰 어플리케이션 구현 (총 48 시간 )**
-<br> 
-
- #### **영화 리뷰 프로그램** [(1차 프로젝트 Git Link)](https://github.com/keemdonghoo/FirstProject) 
- <br>
-
-#### **제작 인원 및 개발 기간**
-* 김동후 , 이건종 , 박재걸 
-* 4주 개발
-
-
-
-
----
-<br>
-
-
->### **2차 프로젝트: ASP.NET Core MVC 기반 영화리뷰 웹 사이트 개발 (총 120 시간 )**
-<br>
-
-- ### **영화 리뷰 웹 사이트** [(Git Link)](https://github.com/keemdonghoo/SecondProject)
-
->### **3차 프로젝트: 라면 공장 MES 시스템 구현 (총 120 시간 )**<br>
-### **라면 공장 MES시스템** [(Git Winform Link)](https://github.com/keemdonghoo/FinalProject-WinForms) 	       [(Git Web Link)](https://github.com/keemdonghoo/FinalProject-WinForms)
-
-### <span style="color:#99CCFF">- 개인 프로젝트</span>
-- ### **피파 온라인 전적검색 사이트** [(Git Link)](https://github.com/keemdonghoo/miniProject)
-  
-<br>
-
----
